@@ -1,0 +1,20 @@
+{
+  "name": "base64-encryp-decryp",
+  "version": "1.0.0",
+  "description": "Base64 encrypted and decrypted files",
+  "main": "app.js",
+  "scripts": {
+    "start:dev": "nodemon app.js",
+    "test": "test"
+  },
+  "keywords": [
+    "base64",
+    "files",
+    "fs"
+  ],
+  "author": "A.Herrera",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
